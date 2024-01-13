@@ -2,7 +2,7 @@
 
 <h4>Machine Learning Enthusiast | Data Scientist | Data Analyst | SQL | Python Developer .</h4>
 
-<h4>My expedition into the captivating realm of machine learning traces back to the days of my college journey.I found myself immersed in the intriguing world of a bioinformatics during one of my project, and that's where the magic began.
+<h4>My journey into the captivating realm of machine learning traces back to the days of my college expedition.I found myself immersed in the intriguing world of a bioinformatics during one of my project, and that's where the magic began.
 
 As I delved into the intricacies of this project, a profound realization struck me like a bolt of lightning — the sheer significance of data in today's dynamic world. This revelation ignited a spark within me, giving rise to an insatiable curiosity to solve the limitless possibilities that data-driven technologies offers.</h4>
 
