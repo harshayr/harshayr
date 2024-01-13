@@ -25,6 +25,7 @@ As I delved into the intricacies of this project, a profound realization struck 
 *Current Focus*
 
 🤖 Deep Dive into Deep Learning: *Exploring advanced neural network architectures and techniques.*
-🌐 Mastering NLP: Unveiling the wonders of Natural Language Processing for enhanced understanding.
+
+🌐 Mastering NLP: Unveiling the wonders of Natural Language Processing for enhanced understanding.*
 
 😄 Words that describe me - *Pro-Active, Creative, Entrepreneurial thinking, Focused, Hardworking & Perfectionist.*
