@@ -1,4 +1,4 @@
-### Hi there, it's Harsha 👋 (Harshal Yujrajsingh Rajput)
+### Hi there, it's Harsha 👋 (Harshal Yuvrajsingh Rajput)
 
 <h4>Machine Learning Enthusiast | Data Scientist | Data Analyst | SQL | Python Developer .</h4>
 
