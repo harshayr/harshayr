@@ -12,8 +12,8 @@ As I delved into the intricacies of this project, a profound realization struck 
 <h5>Reach me on:
   
 - My profile in <a href="*******">LinkedIn</a> 💼 
-- My technical blogs in <a href="*******">Medium</a> 🏓
-- My contribution in Data Science in <a href="*******">Kaggle</a>🖥💻
+- My technical blogs in <a href="https://medium.com/@rajputharshal2002">Medium</a> 🏓
+- My contribution in Data Science in <a href="https://www.kaggle.com/harsharajput">Kaggle</a>🖥💻
 
 *My Github stats*
 
