@@ -1,6 +1,6 @@
 ### Hi there, it's Harsha 👋 (Harshal Yujrajsingh Rajput)
 
-<h4>Machine Learning Enthusiast | Data Analysis | SQL | Python Developer .</h4>
+<h4>Machine Learning Enthusiast | Data Scientist | Data Analyst | SQL | Python Developer .</h4>
 
 <h4>My expedition into the captivating realm of machine learning traces back to the days of my college journey.I found myself immersed in the intriguing world of a bioinformatics during one of my project, and that's where the magic began.
 
