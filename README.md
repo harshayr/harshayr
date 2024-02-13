@@ -11,7 +11,7 @@ As I delved into the intricacies of this project, a profound realization struck 
 
 <h5>Reach me on:
   
-- My profile in <a href="*******">LinkedIn</a> 💼 
+- My profile in <a href="https://www.linkedin.com/in/harshal-rajput-856829226">LinkedIn</a> 💼 
 - My technical blogs in <a href="https://medium.com/@rajputharshal2002">Medium</a> 🏓
 - My contribution in Data Science in <a href="https://www.kaggle.com/harsharajput">Kaggle</a>🖥💻
 
